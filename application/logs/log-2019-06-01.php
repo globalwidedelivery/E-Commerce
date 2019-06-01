@@ -227,3 +227,83 @@ ERROR - 2019-06-01 19:09:01 --> 404 Page Not Found: /index
 ERROR - 2019-06-01 19:12:37 --> 404 Page Not Found: /index
 ERROR - 2019-06-01 19:12:37 --> 404 Page Not Found: /index
 ERROR - 2019-06-01 19:12:37 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:23:21 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:26:36 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:28:20 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:28:24 --> 404 Page Not Found: ../modules/vendor/controllers//index
+ERROR - 2019-06-01 19:28:24 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:28:38 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:29:11 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:29:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 1 - Invalid query: SELECT YEAR(FROM_UNIXTIME(date)) as year, MONTH(FROM_UNIXTIME(date)) as month, COUNT(id) as num FROM vendors_orders WHERE vendor_id = 1 GROUP BY YEAR(FROM_UNIXTIME(date)), MONTH(FROM_UNIXTIME(date)) ASC
+ERROR - 2019-06-01 19:29:11 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:29:59 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:30:02 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:30:09 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:30:17 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:30:21 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:30:22 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:30:45 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:31:01 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:31:01 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:31:01 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:32:48 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:32:50 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:32:59 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:33:05 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:33:05 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:33:06 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:34:21 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:34:21 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:34:21 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:34:26 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:34:26 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:34:26 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:40 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:35:40 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:40 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:41 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:35:41 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:41 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:41 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:41 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:42 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:35:42 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:42 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:45 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:35:45 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:45 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:45 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:45 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:46 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:46 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:35:46 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:46 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:46 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:46 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:35:46 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:46 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:46 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:35:46 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:35:47 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:35:47 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:36:10 --> 404 Page Not Found: ../modules/vendor/controllers//index
+ERROR - 2019-06-01 19:36:13 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:36:14 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:36:14 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:36:14 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:36:14 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:37:15 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:37:15 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:37:15 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:37:15 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:37:15 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:37:18 --> 404 Page Not Found: ../modules/vendor/controllers//index
+ERROR - 2019-06-01 19:37:20 --> 404 Page Not Found: ../modules/vendor/controllers//index
+ERROR - 2019-06-01 19:37:32 --> Could not find the language line "vendor_home_page"
+ERROR - 2019-06-01 19:37:32 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:37:32 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:37:35 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:37:39 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:37:43 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:37:49 --> 404 Page Not Found: /index
+ERROR - 2019-06-01 19:37:50 --> 404 Page Not Found: /index

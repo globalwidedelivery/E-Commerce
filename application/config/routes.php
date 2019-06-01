@@ -134,6 +134,7 @@ $route['(\w{2})/vendor/register'] = "vendor/auth/register";
 $route['vendor/forgotten-password'] = "vendor/auth/forgotten";
 $route['(\w{2})/vendor/forgotten-password'] = "vendor/auth/forgotten";
 $route['vendor/me'] = "vendor/VendorProfile";
+$route['vendor'] = "vendor/VendorProfile";
 $route['(\w{2})/vendor/me'] = "vendor/VendorProfile";
 $route['vendor/logout'] = "vendor/VendorProfile/logout";
 $route['(\w{2})/vendor/logout'] = "vendor/VendorProfile/logout";
